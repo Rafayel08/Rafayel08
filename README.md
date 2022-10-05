@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Rafayel
 - 👀 I’m interested in programming, robots, math, science, music, and tennis
-- 🌱 I’m currently learning python, and hope to learn to use the raspberry pi after
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning python, although I am knowledgable of other languages such as C++, SWIFT, and Lua.
+<!---
+- 💞️ I’m looking to collaborate with others on python projects
+--->
 <!---
 - 📫 How to reach me 
 --->
